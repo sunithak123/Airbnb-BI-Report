@@ -1,4 +1,6 @@
 # Airbnb-BI-Report
+For better visual experience of dashboard(business metrics) use this : https://www.microsoft.com/en-us/download/details.aspx?id=58494
+
 **Overview**
 This analysis focuses on Airbnb listings across various New York City neighborhoods, evaluating host performance, booking distribution, and pricing trends. The insights are intended to support business development, targeting opportunities for growth, host engagement, and strategic pricing.
 
